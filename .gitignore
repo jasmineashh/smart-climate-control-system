@@ -1,0 +1,11 @@
+Debug/ 
+Release/ 
+build/ 
+.settings/ 
+.metadata/ 
+*.log 
+*.elf 
+*.bin 
+*.hex 
+*.map 
+__pycache__/ 
